@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android test</string>
+    <string name="error_occurred">an error occurred</string>
+    <string name="not_connected">You are not connected to internet... </string>
+    <string name="really_quit">Are you sure you want to exit ?</string>
+    <string name="quit">Quit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="retry">Retry</string>
+    <string name="loading_error">loading error...</string>
+</resources>
